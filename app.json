@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://https://github.com/abdalalaem/amiraikb2.git",
+      "value": "https://https://github.com/mjtbamgs/Krazeone",
       "required": false
     }
   },
