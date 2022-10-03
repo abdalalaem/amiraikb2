@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "h",
+      "value": "https://github.com/abdalalaem/amiraikb2",
       "required": false
     }
   },
