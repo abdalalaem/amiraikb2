@@ -86,7 +86,9 @@ _set_bot () {
     echo "
 
     "
-    python3 -m jepthon
+    
+
+python3 -m sbb_b
 }
 
 _set_bot
