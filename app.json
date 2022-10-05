@@ -1,5 +1,5 @@
 {
-  "name": "ريبثون-AMIIRRTX",
+  "name": "امير-AMIIRRTX",
   "description": "اللهم صلِ على محمد وآل محمد",
   "logo": "https://telegra.ph/file/77bd89805fa10da0f431a.jpg",
   "keywords": [
@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/rogerpq/Repthon_userbot",
+  "repository": "https://github.com/abdalalaem/amiirrtx",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
