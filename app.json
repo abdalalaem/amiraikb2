@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/abdalalaem/amiirrtx",
+  "repository": "https://github.com/abdalalaem/amiirrtx  userbot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/rogerpq/RepthonAr",
+      "value": "https://github.com/abdalalaem/amiirrtx",
       "required": false
     }
   },
