@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/abdalalaem/amiirrtx  userbot",
+  "repository": "https://github.com/abdalalaem/amiraikb2",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "https://github.com/abdalalaem/amiirrtx",
+      "value": "https://github.com/abdalalaem/sbb_b0",
       "required": false
     }
   },
